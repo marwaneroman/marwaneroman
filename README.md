@@ -30,19 +30,19 @@
 
 ## 📌 Featured Projects
 
-### 🔒 [DevSecOps Secure CI/CD Pipeline on AWS](https://github.com/<your-username>/devsecops-pipeline-aws)
+### 🔒 [DevSecOps Secure CI/CD Pipeline on AWS](https://github.com/marwaneroman/devsecops-pipeline-aws)
 - Designed an end-to-end automated pipeline integrating **Jenkins**, **SonarQube**, **Trivy**, and **OWASP Dependency-Check**.
 - Automated builds and deployments of containerized services to **AWS EC2**.
 - Implemented real-time system and service metrics using **Prometheus**, **Grafana**, and **Node Exporter**.
 `#DevSecOps` `#AWS` `#Jenkins` `#Docker` `#Prometheus`
 
-### ☁️ [Multi-Tier High Availability Cloud Architecture](https://github.com/<your-username>/aws-multitier-infra)
+### ☁️ [Multi-Tier High Availability Cloud Architecture](https://github.com/marwaneroman/aws-multitier-infra)
 - Provisioned a resilient multi-tier cloud setup on AWS (**VPC**, **EC2 Auto Scaling**, **RDS Multi-AZ**, **EFS**, **S3**).
 - Enforced **Zero Trust** network security with tight Security Groups and least-privilege IAM policies.
 - Configured **Amazon CloudFront** distribution for low-latency asset delivery and TLS offloading.
 `#AWS` `#Terraform` `#HighAvailability` `#Security`
 
-### 🐧 [Linux Health Check & Automated Log Analyzer](https://github.com/<your-username>/linux-health-analyzer)
+### 🐧 [Linux Health Check & Automated Log Analyzer](https://github.com/marwaneroman/linux-health-analyzer)
 - Developed modular **Bash** automation tools to monitor critical host metrics: CPU, RAM, disk usage, active network sockets, and systemd units.
 - Built an automated log parser to detect service errors, brute-force attempts, and disk bottlenecks.
 `#Bash` `#Linux` `#Automation` `#SysAdmin`
@@ -54,11 +54,3 @@
 - **DevSecOps & Security**: DevSecOps (TryHackMe) | Introduction to Cybersecurity (Cisco Networking Academy)
 - **Networking**: Networking Basics (Cisco Networking Academy) | The Bits and Bytes of Computer Networking (Google)
 - **In Preparation**: AWS Certified Solutions Architect – Associate
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=<marwaneroman>&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=<marwaneroman>&layout=compact&theme=radical" alt="Top Languages" />
-</p>
